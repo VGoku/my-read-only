@@ -68,4 +68,4 @@ Pull requests are welcome. Just make sure your code works, or at least looks lik
 
 :scroll: License
 MIT – because letting people legally copy your bugs is a beautiful thing.
-Bob went to the store. 
+Bob went to the store. Bob got back from the store.
