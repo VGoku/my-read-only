@@ -68,6 +68,21 @@ Pull requests are welcome. Just make sure your code works, or at least looks lik
 
 :scroll: License
 MIT – because letting people legally copy your bugs is a beautiful thing.
-Bob went to the store. Bob got back from the store. Once Bob back home, he put everything away. 
-Then he sat down on the couch with a cold beer, to watch his favorite program on TV.
-Once his show was over with, he almost forgot to feed the dog. He grabs sparky his bowl of water and food, placing it gently down on the kitchen floor. Then he heads to his fridge to make him some something to eat. Bob opened up the fridge to no surprise to him, he had almost a 6-pack of beer one slice of old looking ham, a slice of cheese that looks like it has been stomped on. And some bread left that almost felt like bricks. He gathered all the items plus the mayo, that had expired a week ago. 
+
+Bob went to the store, and when he got back home, he put everything away. After that, he settled onto the couch with a cold beer, ready to watch his favorite TV show.
+
+When the show ended, he almost forgot to feed the dog. Remembering just in time, he grabbed Sparky’s bowl, filled it with water and food, and gently set it down on the kitchen floor.
+
+Feeling a bit hungry himself, Bob headed to the fridge to find something to eat. Unsurprisingly, the contents were bleak: almost a full six-pack of beer, a sad-looking slice of ham, a slice of cheese that looked like it had been stepped on, and a chunk of bread so hard it could’ve passed for bricks. He gathered it all anyway—along with a jar of mayo that had expired a week ago.
+
+Bob stared at the sad collection of ingredients and sighed. With the confidence of a man who’s eaten worse, he slapped the ham, cheese, and questionable mayo between two brick-like slices of bread and called it dinner.
+
+He took a bite. The bread nearly chipped a tooth, and the ham had a tang that made him pause—but hunger won the battle. He chewed through it with determination, washing it down with another beer from the fridge.
+
+Sparky barked from the kitchen, tail wagging, licking his bowl clean. At least someone enjoyed their meal.
+
+After dinner, Bob shuffled back to the couch, plopped down, and grabbed the remote. He scrolled aimlessly through channels, nothing good on. Eventually, he settled for a rerun of a show he’d seen a dozen times.
+
+The beer did its job. Halfway through the episode, his eyelids grew heavy. Sparky hopped up beside him, curling into a ball. Bob leaned back with a content sigh.
+
+It wasn’t a gourmet night, but it was a good one.
