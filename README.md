@@ -86,3 +86,5 @@ After dinner, Bob shuffled back to the couch, plopped down, and grabbed the remo
 The beer did its job. Halfway through the episode, his eyelids grew heavy. Sparky hopped up beside him, curling into a ball. Bob leaned back with a content sigh.
 
 It wasn’t a gourmet night, but it was a good one.
+
+The next day. 
