@@ -97,3 +97,5 @@ What is red and white but once struck is black?
 A match.
 What is white and black all over?
 newpaper.
+What is a color?
+A color is every other color but the color it looks like. 
