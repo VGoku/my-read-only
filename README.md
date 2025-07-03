@@ -99,3 +99,4 @@ What is white and black all over?
 newpaper.
 What is a color?
 A color is every other color but the color it looks like. 
+Where is 2 plus 2 not always 2?
